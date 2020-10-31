@@ -1,9 +1,10 @@
 # Adversarial-Reprogramming-of-Neural-Networks
-Implementation of paper Adversarial Reprogramming of Neural Networks - Ian Goodfellow et. al. - ICLR 2019
-
-#### Parth Shettiwar 
-#### Yash Jain 
-#### Devansh Garg
+Implementation of paper Adversarial Reprogramming of Neural Networks - Ian Goodfellow et. al. - ICLR 2019 </br>
+Done as part of CS663 Digital Image Processing course </br>
+</br>
+Parth Shettiwar </br>
+Yash Jain </br>
+Devansh Garg </br>
 
 
 ## 1 Introduction
